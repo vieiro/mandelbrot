@@ -1,0 +1,1 @@
+All source is released under the CDDL license.
